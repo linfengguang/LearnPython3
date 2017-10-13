@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="161f9db4-01a5-4fe7-9220-d376dd682a13" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/input/input_eg.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/input_eg.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -357,7 +355,14 @@
       <option name="project" value="LOCAL" />
       <updated>1507883810475</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="change the directory structure &amp; add task file">
+      <created>1507884841741</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1507884841742</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -396,7 +401,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="增加输入输出学习示例" />
     <MESSAGE value="change the directory structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="change the directory structure" />
+    <MESSAGE value="change the directory structure &amp; add task file" />
+    <option name="LAST_COMMIT_MESSAGE" value="change the directory structure &amp; add task file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
