@@ -29,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/samples/function/call_func_task.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="125">
-              <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+              <caret line="5" column="40" lean-forward="false" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -528,7 +528,14 @@
       <option name="project" value="LOCAL" />
       <updated>1508227081283</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="commit the task of &quot;function&quot;">
+      <created>1508228342169</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1508228342169</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -574,7 +581,8 @@
     <MESSAGE value="commit the task of &quot;list&quot;" />
     <MESSAGE value="commit the task of &quot;determine&quot;" />
     <MESSAGE value="commit the eg&amp;task of &quot;loop&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit the eg&amp;task of &quot;loop&quot;" />
+    <MESSAGE value="commit the task of &quot;function&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit the task of &quot;function&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -656,7 +664,7 @@
     <entry file="file://$PROJECT_DIR$/samples/function/call_func_task.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
-          <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <caret line="5" column="40" lean-forward="false" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
           <folding />
         </state>
       </provider>
