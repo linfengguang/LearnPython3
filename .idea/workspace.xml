@@ -75,8 +75,8 @@
       <file leaf-file-name="determine_task.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/samples/basic/determine_task.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+            <state relative-caret-position="25">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -548,7 +548,14 @@
       <option name="project" value="LOCAL" />
       <updated>1508210365203</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="commit the task of &quot;determine&quot;">
+      <created>1508213338214</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1508213338214</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -592,7 +599,8 @@
     <MESSAGE value="commit the task of &quot;var&quot;" />
     <MESSAGE value="commit the task of &quot;format&quot;" />
     <MESSAGE value="commit the task of &quot;list&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit the task of &quot;list&quot;" />
+    <MESSAGE value="commit the task of &quot;determine&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit the task of &quot;determine&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -649,8 +657,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/samples/basic/determine_task.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        <state relative-caret-position="25">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
