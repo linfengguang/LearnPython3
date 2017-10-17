@@ -11,3 +11,4 @@ while n < 100:
     sum1 = sum1 + n
     n = n + 2
 print(sum1)
+

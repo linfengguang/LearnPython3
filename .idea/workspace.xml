@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="161f9db4-01a5-4fe7-9220-d376dd682a13" name="默认的" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/basic/loop_eg.py" afterPath="$PROJECT_DIR$/samples/basic/loop_eg.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -84,21 +85,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="loop_eg.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="loop_eg.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/samples/basic/loop_eg.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
-              <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+            <state relative-caret-position="100">
+              <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="loop_task.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="call_func_task.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/samples/function/call_func_task.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="loop_task.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/samples/basic/loop_task.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="93">
+              <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -126,8 +137,9 @@
         <option value="$PROJECT_DIR$/samples/basic/format_task.py" />
         <option value="$PROJECT_DIR$/samples/basic/list.py" />
         <option value="$PROJECT_DIR$/samples/basic/determine_task.py" />
-        <option value="$PROJECT_DIR$/samples/basic/loop_eg.py" />
         <option value="$PROJECT_DIR$/samples/basic/loop_task.py" />
+        <option value="$PROJECT_DIR$/samples/basic/loop_eg.py" />
+        <option value="$PROJECT_DIR$/samples/function/call_func_task.py" />
       </list>
     </option>
   </component>
@@ -199,8 +211,22 @@
               <option name="myItemId" value="samples" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="input" />
+              <option name="myItemId" value="LearnPython3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LearnPython3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="samples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="function" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -586,7 +612,14 @@
       <option name="project" value="LOCAL" />
       <updated>1508213350195</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="commit the eg&amp;task of &quot;loop&quot;">
+      <created>1508222039566</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1508222039566</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -631,7 +664,8 @@
     <MESSAGE value="commit the task of &quot;format&quot;" />
     <MESSAGE value="commit the task of &quot;list&quot;" />
     <MESSAGE value="commit the task of &quot;determine&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit the task of &quot;determine&quot;" />
+    <MESSAGE value="commit the eg&amp;task of &quot;loop&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit the eg&amp;task of &quot;loop&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -694,18 +728,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/samples/basic/loop_eg.py">
+    <entry file="file://$PROJECT_DIR$/samples/basic/loop_task.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        <state relative-caret-position="93">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/samples/basic/loop_task.py">
+    <entry file="file://$PROJECT_DIR$/samples/function/call_func_task.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/basic/loop_eg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
           <folding />
         </state>
       </provider>
