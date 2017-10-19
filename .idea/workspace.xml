@@ -35,11 +35,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="map_reduce_eg.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="map_reduce_eg.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/samples/higherfunction/map_reduce_eg.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="125">
+              <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="map_reduce_task.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/samples/higherfunction/map_reduce_task.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -81,6 +91,7 @@
         <option value="$PROJECT_DIR$/samples/misc/generator_task.py" />
         <option value="$PROJECT_DIR$/samples/misc/iterator_eg.py" />
         <option value="$PROJECT_DIR$/samples/higherfunction/map_reduce_eg.py" />
+        <option value="$PROJECT_DIR$/samples/higherfunction/map_reduce_task.py" />
       </list>
     </option>
   </component>
@@ -633,7 +644,14 @@
       <option name="project" value="LOCAL" />
       <updated>1508385249668</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="commit the eg of &quot;map&amp;reduce&quot;">
+      <created>1508398834467</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1508398834467</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -689,7 +707,8 @@
     <MESSAGE value="commit the eg of &quot;generator&quot;" />
     <MESSAGE value="commit the task of &quot;generator&quot;" />
     <MESSAGE value="commit the eg of &quot;iterator&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit the eg of &quot;iterator&quot;" />
+    <MESSAGE value="commit the eg of &quot;map&amp;reduce&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit the eg of &quot;map&amp;reduce&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -858,8 +877,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/samples/higherfunction/map_reduce_eg.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="125">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/higherfunction/map_reduce_task.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
