@@ -29,6 +29,7 @@
     <SUITE FILE_PATH="coverage/LearnPython3$reraise_eg.coverage" NAME="reraise_eg Coverage Results" MODIFIED="1508729080061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/samples/exception" />
     <SUITE FILE_PATH="coverage/LearnPython3$list.coverage" NAME="list Coverage Results" MODIFIED="1508210216008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/samples/basic" />
     <SUITE FILE_PATH="coverage/LearnPython3$err_eg.coverage" NAME="err_eg Coverage Results" MODIFIED="1508728400812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/samples/exception" />
+    <SUITE FILE_PATH="coverage/LearnPython3$assert_eg.coverage" NAME="assert_eg Coverage Results" MODIFIED="1508730094028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/samples/debug" />
     <SUITE FILE_PATH="coverage/LearnPython3$loop_task.coverage" NAME="loop_task Coverage Results" MODIFIED="1508221959576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/samples/basic" />
     <SUITE FILE_PATH="coverage/LearnPython3$iteration_eg.coverage" NAME="iteration_eg Coverage Results" MODIFIED="1508318804350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/samples/misc" />
     <SUITE FILE_PATH="coverage/LearnPython3$def_func.coverage" NAME="def_func Coverage Results" MODIFIED="1508236931567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/samples/function" />
@@ -105,11 +106,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="reraise_eg.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="reraise_eg.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/samples/exception/reraise_eg.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="225">
+              <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="assert_eg.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/samples/debug/assert_eg.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -162,6 +173,7 @@
         <option value="$PROJECT_DIR$/samples/exception/err_logging_eg.py" />
         <option value="$PROJECT_DIR$/samples/exception/raise_eg.py" />
         <option value="$PROJECT_DIR$/samples/exception/reraise_eg.py" />
+        <option value="$PROJECT_DIR$/samples/debug/assert_eg.py" />
       </list>
     </option>
   </component>
@@ -249,7 +261,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="exception" />
+              <option name="myItemId" value="debug" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -280,26 +292,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.reraise_eg">
-    <configuration default="false" name="try_eg" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/samples/exception" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LearnPython3" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/samples/exception/try_eg.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.assert_eg">
     <configuration default="false" name="err_eg" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -371,6 +364,25 @@
       <module name="LearnPython3" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/samples/exception/reraise_eg.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="assert_eg" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/samples/debug" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LearnPython3" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/samples/debug/assert_eg.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -525,19 +537,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.try_eg" />
-      <item index="1" class="java.lang.String" itemvalue="Python.err_eg" />
-      <item index="2" class="java.lang.String" itemvalue="Python.err_logging_eg" />
-      <item index="3" class="java.lang.String" itemvalue="Python.raise_eg" />
-      <item index="4" class="java.lang.String" itemvalue="Python.reraise_eg" />
+      <item index="0" class="java.lang.String" itemvalue="Python.err_eg" />
+      <item index="1" class="java.lang.String" itemvalue="Python.err_logging_eg" />
+      <item index="2" class="java.lang.String" itemvalue="Python.raise_eg" />
+      <item index="3" class="java.lang.String" itemvalue="Python.reraise_eg" />
+      <item index="4" class="java.lang.String" itemvalue="Python.assert_eg" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.reraise_eg" />
-        <item index="1" class="java.lang.String" itemvalue="Python.raise_eg" />
-        <item index="2" class="java.lang.String" itemvalue="Python.err_logging_eg" />
-        <item index="3" class="java.lang.String" itemvalue="Python.err_eg" />
-        <item index="4" class="java.lang.String" itemvalue="Python.try_eg" />
+        <item index="0" class="java.lang.String" itemvalue="Python.assert_eg" />
+        <item index="1" class="java.lang.String" itemvalue="Python.reraise_eg" />
+        <item index="2" class="java.lang.String" itemvalue="Python.raise_eg" />
+        <item index="3" class="java.lang.String" itemvalue="Python.err_logging_eg" />
+        <item index="4" class="java.lang.String" itemvalue="Python.err_eg" />
       </list>
     </recent_temporary>
   </component>
@@ -804,7 +816,14 @@
       <option name="project" value="LOCAL" />
       <updated>1508728927284</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="commit the eg of &quot;reraise&quot;">
+      <created>1508729162581</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1508729162581</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -842,7 +861,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit the task of &quot;format&quot;" />
     <MESSAGE value="commit the task of &quot;list&quot;" />
     <MESSAGE value="commit the task of &quot;determine&quot;" />
     <MESSAGE value="commit the eg&amp;task of &quot;loop&quot;" />
@@ -867,7 +885,8 @@
     <MESSAGE value="commit the eg of &quot;error&quot;" />
     <MESSAGE value="commit the eg of &quot;error logging&quot;" />
     <MESSAGE value="commit the eg of &quot;raise logging&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit the eg of &quot;raise logging&quot;" />
+    <MESSAGE value="commit the eg of &quot;reraise&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit the eg of &quot;reraise&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1132,8 +1151,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/samples/exception/reraise_eg.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="225">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/debug/assert_eg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
           <folding />
         </state>
       </provider>
